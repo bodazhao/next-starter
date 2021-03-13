@@ -1,4 +1,4 @@
-# `next-starters`
+# `next-starter`
 
 ## Stack
 

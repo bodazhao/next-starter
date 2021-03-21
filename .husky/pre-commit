@@ -1,6 +1,5 @@
 #!/bin/sh
 . "$(dirname "$0")/_/husky.sh"
 
-npm test
-npm run types
-npx --no-install lint-staged
+pnpm run types
+pnpx --no-install lint-staged

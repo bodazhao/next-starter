@@ -2,16 +2,16 @@
 
 ## Stack
 
-| 🛠        | 📦         |
-| -------- | ---------- |
-| eslint   | next.js    |
-| prettier | typescript |
-| husky    |            |
-| npm      |            |
+| 🛠        | 📦              |
+| -------- | --------------- |
+| pnpm v5  | next.js v10     |
+| eslint   | typescript v4.2 |
+| prettier |                 |
+| husky    |                 |
 
 ## Get Started
 
 ```bash
-npm i
-npm run dev
+pnpm install
+pnpm run dev
 ```
